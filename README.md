@@ -32,3 +32,4 @@ Example:
 08/06/26,Transport,100,Metro Ticket
 ## Purpose
 This project demonstrates the practical use of Python programming concepts such as file handling, user-defined functions, data processing, and menu-driven applications while providing a useful tool for tracking personal expenses.
+<img width="501" height="615" alt="image" src="https://github.com/user-attachments/assets/d1af958a-ce84-41d8-80ad-1fde62925274" />
