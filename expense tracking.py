@@ -102,9 +102,7 @@ def filter_by_category():
                         f"{date:<15}{category:<18}{amount:<12}{note}"
                     )
                     subtotal += float(amount)
-
             print("-" * 70)
-
             if found:
                 print(f"Category Total : ₹{subtotal:.2f}")
             else:
